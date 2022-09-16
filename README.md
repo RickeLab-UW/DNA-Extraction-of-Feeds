@@ -1,6 +1,3 @@
-# DNA-Extraction-of-Feeds
-DNA Extraction of 9 different poultry feed types
-
 # DNA Extraction Methods for Microbiome Analyses 
 16S rDNA Sequencing Data
  
